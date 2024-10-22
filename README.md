@@ -83,7 +83,7 @@ These reports offer a comprehensive understanding of the factors influencing CS 
 
 **Top Districts by Average Teacher Salary**  
 - Districts with the highest average teacher salaries are likely to attract and retain top educators, which is critical for maintaining the quality of CS education.
-![alt text](top_districts_by_average_teacher_salary.png)
+![alt text](/images/top_districts_by_average_teacher_salary.png)
 
 
 ## 3. Visualizations for Key Questions 
@@ -225,6 +225,6 @@ Ultimately, the data supports a strategic, targeted approach that prioritizes eq
 
 ## 9. Individual Contributions
 
-- **Changxuan Fan**: Team Lead. Coordinated the project, led report editing, and created heatmap visualizations.
+- **Changxuan Fan**: *Team Lead*. Coordinated the project, led report editing, and created heatmap visualizations.
 - **Kelvin Lin**: Created visualizations, wrote key sections, and contributed to the extension analysis.
 - **Sai Tejaswini Junnuri**: Performed data extraction and collection, performed exploratory data analysis, and analyzed CS participation.
